@@ -1,0 +1,14 @@
+C:\Users\f\source\repos\OverRight\OverRight\bin\Debug\netcoreapp3.1\OverRight.exe
+C:\Users\f\source\repos\OverRight\OverRight\bin\Debug\netcoreapp3.1\OverRight.deps.json
+C:\Users\f\source\repos\OverRight\OverRight\bin\Debug\netcoreapp3.1\OverRight.runtimeconfig.json
+C:\Users\f\source\repos\OverRight\OverRight\bin\Debug\netcoreapp3.1\OverRight.runtimeconfig.dev.json
+C:\Users\f\source\repos\OverRight\OverRight\bin\Debug\netcoreapp3.1\OverRight.dll
+C:\Users\f\source\repos\OverRight\OverRight\bin\Debug\netcoreapp3.1\OverRight.pdb
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.AssemblyInfoInputs.cache
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.AssemblyInfo.cs
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.dll
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.pdb
+C:\Users\f\source\repos\OverRight\OverRight\obj\Debug\netcoreapp3.1\OverRight.genruntimeconfig.cache
